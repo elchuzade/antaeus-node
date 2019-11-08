@@ -1,0 +1,67 @@
+{
+  "invoices": [
+    {
+      "id": "0",
+      "customerId": "0",
+      "amount": { "value": "192.90", "currency": "USD" },
+      "status": "PENDING"
+    },
+    {
+      "id": "1",
+      "customerId": "0",
+      "amount": { "value": "192.90", "currency": "USD" },
+      "status": "PENDING"
+    },
+    {
+      "id": "2",
+      "customerId": "0",
+      "amount": { "value": "192.90", "currency": "USD" },
+      "status": "PENDING"
+    },
+    {
+      "id": "3",
+      "customerId": "0",
+      "amount": { "value": "192.90", "currency": "USD" },
+      "status": "PENDING"
+    },
+    {
+      "id": "4",
+      "customerId": "0",
+      "amount": { "value": "192.90", "currency": "USD" },
+      "status": "PENDING"
+    },
+    {
+      "id": "5",
+      "customerId": "0",
+      "amount": { "value": "192.90", "currency": "USD" },
+      "status": "PENDING"
+    },
+    {
+      "id": "6",
+      "customerId": "0",
+      "amount": { "value": "192.90", "currency": "USD" },
+      "status": "PENDING"
+    },
+    {
+      "id": "7",
+      "customerId": "0",
+      "amount": { "value": "192.90", "currency": "USD" },
+      "status": "PENDING"
+    },
+    {
+      "id": "8",
+      "customerId": "0",
+      "amount": { "value": "192.90", "currency": "USD" },
+      "status": "PENDING"
+    },
+    {
+      "id": "9",
+      "customerId": "0",
+      "amount": { "value": "192.90", "currency": "USD" },
+      "status": "PENDING"
+    }
+  ],
+  "network": [],
+  "funds": [],
+  "currency": []
+}
